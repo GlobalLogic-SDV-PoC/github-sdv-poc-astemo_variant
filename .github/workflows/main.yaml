@@ -28,8 +28,6 @@ on:
         default: 'libc6, hitachiastemo-qcom-qnx (>= 3.0.0), hitachiastemo-tools (= 3.0.0)'
         type: string
 
-
-
 jobs:
   build:
     name: Build
